@@ -8,7 +8,7 @@
   "distFolder": "./dist",
   "concatJs": [
     "./bower_components/jquery/dist/jquery.js",
-    "./bower_components/bootstrap-sass/assets/javascripts/bootstrap.js",
+    "./bower_components/foundation-sites/dist/js/foundation.js",
     "./edit/javascripts/*.js"
   ],
   "styleSheet": "style.css",

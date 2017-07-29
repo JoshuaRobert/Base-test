@@ -12,6 +12,7 @@
     "semantic-ui-sass": "*",
     "clipboard": "^1.5.12",
     "dataloops": "*",
-    "barba.js": "luruke/barba.js#^1.0.0"
+    "barba.js": "luruke/barba.js#^1.0.0",
+    "foundation-sites": "^6.4.1"
   }
 }
